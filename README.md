@@ -1,4 +1,4 @@
-Here we have a sockets application made in node ( TS + <a href="(https://nodejs.org/api/net.html)">net module</a>). A small chat was made for real-time communication between two customers.
+Here we have a sockets application made in node ( TS + <a href="https://nodejs.org/api/net.html">net module</a>). A small chat was made for real-time communication between two customers.
 
 How to use:
 On your machine, run the server.ts file first (you can use the <a href="https://www.npmjs.com/package/ts-node">'ts-node server.ts'</a> command). ready, your server is already live on port 2800
